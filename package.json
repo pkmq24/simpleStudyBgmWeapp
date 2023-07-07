@@ -67,7 +67,7 @@
     "eslint-plugin-react": "^7.8.2",
     "eslint-plugin-react-hooks": "^1.6.1",
     "eslint-plugin-taro": "2.1.4",
-    "stylelint": "9.3.0",
+    "stylelint": "15.10.1",
     "stylelint-config-taro-rn": "2.1.4",
     "stylelint-taro-rn": "2.1.4",
     "typescript": "^3.0.1"
